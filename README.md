@@ -14,3 +14,7 @@ React application for tracking expenses
 ## Run dev
 
 `npm run dev`
+
+## Install react-router-dom
+
+`npm i -D react-router-dom@latest`
