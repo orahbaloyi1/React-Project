@@ -1,12 +1,12 @@
 import React from "react";
+import HeroDashboard from "../components/HeroDashboard";
 import MainLayout from "../layouts/MainLayouts";
-import LoginPage from "../components/LoginPage";
 
-const Login = () => {
+const Home = () => {
   return (
     <MainLayout>
-      <LoginPage />
+      <HeroDashboard />
     </MainLayout>
   );
 };
-export default Login;
+export default Home;
